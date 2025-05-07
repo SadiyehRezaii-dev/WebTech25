@@ -1,5 +1,5 @@
 # WebTech25
-## Übung 2 ß Styled page with CSS
+## Übung 2  -Styled page with CSS
 
 In Übung2, the table and navigation from Übung 1 were styled using a custom CSS file.
 - Background color: `#AFAFAF`
